@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace khoahocC
+namespace buoi3
 {
-    class Program
+    class buoi3
     {
         static void Main(string[] args)
         {

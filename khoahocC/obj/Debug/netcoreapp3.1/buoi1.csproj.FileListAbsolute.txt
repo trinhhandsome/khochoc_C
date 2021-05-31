@@ -1,0 +1,13 @@
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\buoi1.exe
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\buoi1.deps.json
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\buoi1.runtimeconfig.json
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\buoi1.runtimeconfig.dev.json
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\buoi1.dll
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\buoi1.pdb
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\buoi1.csprojAssemblyReference.cache
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\buoi1.AssemblyInfoInputs.cache
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\buoi1.AssemblyInfo.cs
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\buoi1.csproj.CoreCompileInputs.cache
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\buoi1.dll
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\buoi1.pdb
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\buoi1.genruntimeconfig.cache

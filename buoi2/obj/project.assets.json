@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\khoahocC\\khoahocC\\buoi1.csproj",
-      "projectName": "buoi1",
-      "projectPath": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\khoahocC\\khoahocC\\buoi1.csproj",
+      "projectUniqueName": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\khoahocC\\buoi2\\buoi2.csproj",
+      "projectName": "buoi2",
+      "projectPath": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\khoahocC\\buoi2\\buoi2.csproj",
       "packagesPath": "C:\\Users\\May cua tAo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\khoahocC\\khoahocC\\obj\\",
+      "outputPath": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\khoahocC\\buoi2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\May cua tAo\\AppData\\Roaming\\NuGet\\NuGet.Config",

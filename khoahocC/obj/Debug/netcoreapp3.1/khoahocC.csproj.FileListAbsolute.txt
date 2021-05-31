@@ -1,0 +1,13 @@
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\khoahocC.csprojAssemblyReference.cache
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\khoahocC.AssemblyInfoInputs.cache
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\khoahocC.AssemblyInfo.cs
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\khoahocC.csproj.CoreCompileInputs.cache
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\khoahocC.exe
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\khoahocC.deps.json
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\khoahocC.runtimeconfig.json
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\khoahocC.runtimeconfig.dev.json
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\khoahocC.dll
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\bin\Debug\netcoreapp3.1\khoahocC.pdb
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\khoahocC.dll
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\khoahocC.pdb
+C:\Users\May cua tAo\Desktop\bài tập C#\khoahocC\khoahocC\obj\Debug\netcoreapp3.1\khoahocC.genruntimeconfig.cache
